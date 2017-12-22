@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetStartedAPP</string>
+    <string name="operation">4 x 7 = </string>
+    <string name="btnValidate">VALIDER</string>
+</resources>
